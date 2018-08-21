@@ -4,4 +4,5 @@ print("hello ,mali3!")
 print("hello,mali4!")
 
 print("hello mali52")
+print("hello mali52")
 
